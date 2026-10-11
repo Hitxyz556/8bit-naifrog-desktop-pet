@@ -1,0 +1,9 @@
+/release/
+/test-artifacts/
+*.pdb
+*.user
+*.suo
+.vs/
+.env
+.env.*
+*.log

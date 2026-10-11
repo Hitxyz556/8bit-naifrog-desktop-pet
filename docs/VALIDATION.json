@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "automated_checks_passed": 458,
+  "automated_checks_failed": 0,
+  "windows_smoke": {
+    "window_created": true,
+    "draws": 175,
+    "layered_window_failures": 0,
+    "asset_load": true
+  },
+  "main_actions": 12,
+  "main_duration_seconds": 4,
+  "fps": 24,
+  "playback_frames": 96,
+  "privacy_audit": {
+    "status": "passed",
+    "scan_findings": 0,
+    "public_files": 16,
+    "source_image_metadata_removed": true,
+    "personal_paths_tokens_private_keys_not_found": true
+  },
+  "scope": "Local build and bounded Windows smoke run; not a claim of exhaustive platform coverage or antivirus certification."
+}
